@@ -1,13 +1,13 @@
-
 ## Vehicles
 
-| English     | Japanese   |
-|-------------|-----------|
-| Bicycle     | じてんしゃ |
-| Bus         | バス       |
-| Train       | でんしゃ   |
-| Subway      | ちかてつ   |
-| Taxi        | タクシー   |
-| Aeroplane   | ひこうき   |
-| Ship        | ふね       |
-| On foot     | あるいて   |
+| English   | Romaji     | Japanese   |
+| --------- | ---------- | ---------- |
+| Bicycle   | jidensha   | じてんしゃ |
+| Car       | kuruma     | くるま     |
+| Bus       | basu       | バス       |
+| Train     | densha     | でんしゃ   |
+| Subway    | chikatetsu | ちかてつ   |
+| Taxi      | takushii   | タクシー   |
+| Aeroplane | ekoki      | ひこうき   |
+| Ship      | fune       | ふね       |
+| On foot   | aruite     | あるいて   |
