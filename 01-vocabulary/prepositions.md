@@ -2,7 +2,7 @@
 
 
 | English    | Romaji 　  | Japanese  |
-| :--------- | :--------: | ---------:|
+| :---------: | :--------: | :---------:|
 | 　close　　| chikai 　   | ちかい 　 |
 |     far   | tooi        | とおい    |
 | above/up  | ue          | うえ      |
@@ -12,4 +12,4 @@
 | left　　　 | hidari　　　| ひだり 　 |
 | inside 　 | 　naka　　　| なか 　　 |
 | outside   | sothe　　　 | そて 　　 |
-| 　next　　| teyonari　　| てょなり  |
+| next　　  | teyonari　　| てょなり  |
