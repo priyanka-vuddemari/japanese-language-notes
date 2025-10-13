@@ -1,6 +1,6 @@
-## Rule 1 :  Use 「〜が欲しい」 (ga hoshii) with the object you want. 
+## Rule 1 : Use 「〜が欲しい」 (ga hoshii) with the object you want.
 
-### Noun +  「が」 (ga) + 「ほしい」 hoshi desu  --> want something 
+### Noun + 「が」 (ga) + 「ほしい」 hoshi desu --> want something
 
 #### Ex.
 
@@ -13,11 +13,9 @@
 
 - なにが ほしいですか。 - Nani ga hoshii desu ka. - What do you want?
 
+## Rule 2 : Attach 「〜たい」 (tai) to the stem of the verb, which is the masu-form without 「ます」
 
-
-## Rule 2 :  Attach 「〜たい」 (tai) to the stem of the verb, which is the masu-form without 「ます」
-
-### Verb( masu stem) +「たい」 + desu --> want to do something 
+### Verb( masu stem) +「たい」 + desu --> want to do something
 
 - 日本（にほん）に行（い）きたいです。 - Nihon ni ikitai desu.- I want to go to Japan.
 
@@ -25,6 +23,4 @@
 
 - 映画（えいが）が見（み）たいです。- Eiga ga mitai desu. - I want to see a movie.
 
-- パソコンが買いたいです。- Pasokon ga kaitai desu.- I want to buy a computer 
-
-
+- パソコンが買いたいです。- Pasokon ga kaitai desu.- I want to buy a computer
