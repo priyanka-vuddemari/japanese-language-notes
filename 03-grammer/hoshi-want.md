@@ -24,3 +24,6 @@
 - 映画（えいが）が見（み）たいです。- Eiga ga mitai desu. - I want to see a movie.
 
 - パソコンが買いたいです。- Pasokon ga kaitai desu.- I want to buy a computer
+
+
+![alt text](image.png)
