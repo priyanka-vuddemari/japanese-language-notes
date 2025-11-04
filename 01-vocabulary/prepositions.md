@@ -3,13 +3,15 @@
 
 | English    | Romaji 　  | Japanese  |
 | :---------: | :--------: | :---------:|
-| 　close　　| chikai 　   | ちかい 　 |
-|     far   | tooi        | とおい    |
-| above/up  | ue          | うえ      |
-| before / in front | mae | まえ 　　 |
-|behind / after| ushiru      | うしる 　 | 　 
-| right　　| mugi　　　　| みぎ 　　 |
-| left　　　 | hidari　　　| ひだり 　 |
-| inside 　 | 　naka　　　| なか 　　 |
-| outside   | sothe　　　 | そて 　　 |
-| next　　  | teyonari　　| てょなり  |
+| English             | Romaji      | Japanese   |
+|---------------------|-------------|------------|
+| Close               | chikai      | ちかい      |
+| Far                 | tooi        | とおい      |
+| Above/Up            | ue          | うえ        |
+| Before/In front     | mae         | まえ        |
+| Behind/After        | ushiro      | うしろ      |
+| Right               | migi        | みぎ        |
+| Left                | hidari      | ひだり      |
+| Inside              | naka        | なか        |
+| Outside             | soto        | そと        |
+| Next                | tonari      | となり      |
